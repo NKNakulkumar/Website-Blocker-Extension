@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    width: 200px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 16px;
+    text-align: center;
+
+}
+
+input {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+button {
+    width: 80%;
+    background-color: black;
+    color: aliceblue;
+    border-radius: 6px;
+    cursor: pointer;
+  
+
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
