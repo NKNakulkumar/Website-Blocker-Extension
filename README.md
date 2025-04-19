@@ -15,7 +15,7 @@ Hello this is an Website Blocker browser extension is a tool that helps users li
 
 ## Screenshots
 
-![App Screenshot](https://appletoolbox.com/wp-content/uploads/2019/08/3-easy-ways-to-block-websites-on-Ma.jpeg)
+![App Screenshot](https://www.codester.com/static/uploads/items/000/030/30366/icon.png)
 
 
 ## Tech Stack
