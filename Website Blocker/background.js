@@ -23,7 +23,7 @@ function updateBlockingRules() {
         }
     }));
 
-    chrome.declarativeNetRequest.updateDynamicRules({
+  // update dynamic rules chrome.declarativeNetRequest.updateDynamicRules({
         addRules: rules,
         removeRuleIds: blockedSites.map((_, index) => index + 1) // Remove rules by their integer IDs
     });
