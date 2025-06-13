@@ -1,7 +1,7 @@
 # Block Box Extension 
 
 
-## Overview
+## Overview 
 
 Hello this is an Website Blocking browser extension is a tool that helps users limit or block access to specific websites while browsing. It can be used to stay focused, avoid distractions, or restrict access to certain content.
 
