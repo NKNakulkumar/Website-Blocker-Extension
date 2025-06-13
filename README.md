@@ -11,6 +11,7 @@ Hello this is an Website Blocking browser extension is a tool that helps users l
 - Set Time Limit to the webite to block
 - Unblock the webite
 - Simple and friendly UI
+- Display realtime site Wat
 
 
 ## Screenshots
