@@ -10,7 +10,7 @@ Hello this is an Website Blocking browser extension is a tool that helps users l
 - User Friendly Design
 - Set Time Limit to the webite to block
 - Unblock the webite
-- Simple to use and Very clean UI
+- Simple and friendly UI
 
 
 ## Screenshots
