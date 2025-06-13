@@ -1,9 +1,9 @@
-# Website Blocker Extension
+# Block Box  Extension
 
 
 ## Overview
 
-Hello this is an Website Blocker browser extension is a tool that helps users limit or block access to specific websites while browsing. It can be used to stay focused, avoid distractions, or restrict access to certain content.
+Hello this is an Website Blocking browser extension is a tool that helps users limit or block access to specific websites while browsing. It can be used to stay focused, avoid distractions, or restrict access to certain content.
 
 ## Features 
 
