@@ -28,7 +28,7 @@ Hello this is an Website Blocking browser extension is a tool that helps users l
 
 Contributions are always welcome!
 
-See `readme.md` for ways to get started.
+See `readme.md` for ways to get started. 
 
 Please adhere to this project's `code of conduct`.
 
